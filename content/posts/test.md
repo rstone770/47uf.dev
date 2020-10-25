@@ -6,6 +6,6 @@ draft: true
 
 # im just a test
 
-```
+```javascript
 const code = true;
 ```
