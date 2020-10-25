@@ -1,4 +1,4 @@
-baseURL = "https://47uf.dev"
+baseURL = "https://www.47uf.dev/"
 languageCode = "en-us"
 title = "47uf.dev"
-theme = "researcher"
+theme = "coder"
